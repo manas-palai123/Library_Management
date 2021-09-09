@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: manas.palai2005@gmail.com
+Date: Thu, 09 Sep 2021 07:27:56 -0000
+Message-ID: <163117247646.23192.7584192811641340004@LAPTOP-H7BSD0O0>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/MTE/asplcj-f5be6b9de5f13a5504bb594c5fdeab06/
+
+Your username, in case you’ve forgotten: savitri
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------

@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: manas9977630319@gmail.com
+Date: Thu, 09 Sep 2021 09:10:40 -0000
+Message-ID: <163117864077.17248.15384045794128638592@LAPTOP-H7BSD0O0>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/MTA/aspq3s-9adfeabf585138013eaf6e7ccfb832c6/
+
+Your username, in case you’ve forgotten: manas
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
